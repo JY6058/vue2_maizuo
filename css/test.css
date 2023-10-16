@@ -1,0 +1,15 @@
+div{
+  box-sizing: border-box;
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  padding: 2px;
+  border: 1px solid black;
+  margin: 10px;
+}
+button:active{
+  background-color: pink;
+}
+#my{
+  border:1px solid #000;
+}
